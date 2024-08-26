@@ -1,11 +1,9 @@
 # README
 
-This file contains all the information about the developed skin cancer detection project. 
-
-- Project Developed By: Divyash Kumbhani, Sagar Bapodara and Jay Kanani.
+This file contains all the information about the skin cancer detection project that was developed. 
 
 ## Overview: 
-This project aims to classify skin cancer types (Basal Cell Carcinoma, Melanoma, Nevus) using a deep learning model. The model is trained on a dataset containing images of skin lesions. Users can upload an image, and the model will predict the type of skin cancer.
+This project uses a deep learning model to classify skin cancer types (Basal Cell Carcinoma, Melanoma, Nevus). The model is trained on a dataset containing images of skin lesions. Users can upload a picture, and the model will predict the type of skin cancer.
 
 ## Tech Used 
 
@@ -43,15 +41,15 @@ streamlit
 
 ## Installation
 
-Please install and configure latest version of Python before using this application. 
+Please install and configure the latest version of Python before using this application. 
 
-` cd <Path to your choosen drive>` 
+` cd <Path to your chosen drive>` 
 
 `pip install [required library name]`
 
 ## Usage
 - streamlit run app.py
-- Open your web browser and go to http://localhost: (local server addr).
+- Open your web browser and go to http://localhost: (local server address).
 
 ## References
 
@@ -72,9 +70,4 @@ Many references and guides have been used for developing the code for this proje
 
 ## Acknowledgements
 
-- Our project may include code snippets or methods from various sources that have been adapted to suit the requirements. Such references have been cited in the above section and detailed references will be cited in our final report.
-
 - We appreciate the contributions of the open-source machine learning community and the help and references received from platforms such as Stack Overflow, Kaggle, Stack Exchange, etc. in resolving many errors and bugs. 
-
-
-
