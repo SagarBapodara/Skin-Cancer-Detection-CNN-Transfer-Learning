@@ -17,6 +17,18 @@ Number of Class         : 3 (Basal Cell Carcinoma vs Melanoma vs Nevus)
 Number/Size of Images   : Total      : 12, 445
                           Training   : 12, 295
                           Testing    : 150 </pre>
+## Sample Images
+
+Sample images from the dataset:
+
+1. Melanoma:
+
+![Melanoma-Sample-Images-ISIC](Images/Melenoma_samples_images.png)
+
+2. Nevus:
+
+3. Basal-cell carcinoma:
+   
 
 ## Tech Used 
 
