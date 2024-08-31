@@ -27,8 +27,11 @@ Sample images from the dataset:
 
 2. Nevus:
 
+![Nevus-Sample-Images-ISIC](Images/Nevus_sample_images.png)
+
 3. Basal-cell carcinoma:
-   
+
+![Basal-cell carcinoma-Sample-Images-ISIC](Images/bcc_sample_images.png)
 
 ## Tech Used 
 
