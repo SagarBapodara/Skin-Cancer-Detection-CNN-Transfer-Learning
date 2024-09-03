@@ -1,9 +1,7 @@
 # README
 
-This file contains all the information about the skin cancer detection project that was developed. 
-
 ## Overview: 
-This project uses a deep learning model to classify skin cancer types (Basal Cell Carcinoma, Melanoma, Nevus). The model is trained on a dataset containing images of skin lesions. Users can upload a picture, and the model will predict the type of skin cancer.
+This project uses a Convolution Neural Network and Transfer Learning approach to classify skin cancer types (Basal Cell Carcinoma, Melanoma, Nevus). The model is trained on a dataset containing images of skin lesions. Moreover, a graphical user interface (GUI) has been developed where users can upload pictures, and the model will predict the type of skin cancer.
 
 ## Dataset
 <pre>
@@ -17,6 +15,21 @@ Number of Class         : 3 (Basal Cell Carcinoma vs Melanoma vs Nevus)
 Number/Size of Images   : Total      : 12, 445
                           Training   : 12, 295
                           Testing    : 150 </pre>
+## Sample Images
+
+Sample images from the dataset:
+
+1. Melanoma:
+
+![Melanoma-Sample-Images-ISIC](Images/Melenoma_samples_images.png)
+
+2. Nevus:
+
+![Nevus-Sample-Images-ISIC](Images/Nevus_sample_images.png)
+
+3. Basal-cell carcinoma:
+
+![Basal-cell carcinoma-Sample-Images-ISIC](Images/bcc_sample_images.png)
 
 ## Tech Used 
 
