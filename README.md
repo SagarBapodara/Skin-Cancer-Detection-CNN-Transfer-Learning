@@ -77,9 +77,19 @@ Please install and configure the latest version of Python before using this appl
 - streamlit run app.py
 - Open your web browser and go to http://localhost: (local server address).
 
+## Model
+
+The developed model using MobileNetV2 can be found here: [Skin-Cancer-Model.h5](https://drive.google.com/file/d/1tHv4-49h-kUm4jZN_pp5X-xqUxmdzN7u/view?usp=sharing)
+
+## Results
+
+1. CNN Model:
+
+
+
 ## References
 
-Many references and guides have been used for developing the code for this project.  
+Many references and guides have been used to develop this project's code.  
 
 1. Tensorflow Documentation: https://www.tensorflow.org/api_docs/python/tf
 
