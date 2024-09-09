@@ -83,9 +83,23 @@ The developed model using MobileNetV2 can be found here: [Skin-Cancer-Model.h5](
 
 ## Results
 
-1. CNN Model:
+1. CNN Model :
 
+![CNN-1-Result](Images/CNN-1-Model-Results.PNG)
 
+![CNN-1-Result-ROC](Images/CNN-1-ROC.png)
+
+2. Tunned CNN Model :
+
+![T-CNN-1-Result](Images/CNN-2-Model-Results.PNG)
+
+![T-CNN-1-Result-ROC](Images/CNN-2-ROC.png)
+
+3. MobileNetV2 Model (Transfer Learning) :
+
+![MobileNetV2-Model-Result](Images/MVN-Model-Results.png)
+
+![MobileNetV2-Model-Result-%](Images/MVN-Model-Results-Percentage.png)
 
 ## References
 
@@ -106,4 +120,4 @@ Many references and guides have been used to develop this project's code.
 
 ## Acknowledgements
 
-- We appreciate the contributions of the open-source machine learning community and the help and references received from platforms such as Stack Overflow, Kaggle, Stack Exchange, etc. in resolving many errors and bugs. 
+- I appreciate the contributions of the open-source machine learning community and the help and references received from platforms such as Stack Overflow, Kaggle, Stack Exchange, etc., in resolving many errors and bugs.
